@@ -77,9 +77,6 @@ Initializes the contract with a target amount, a deadline, and sets the minimum 
 5. If the majority supports a request, the manager can execute the payment using the `makePayment()` function.
 6. If the target is not met by the deadline, contributors can get a refund using the `refund()` function.
 
-## License
-
-This project is unlicensed. 
 
 ## Contact
 
