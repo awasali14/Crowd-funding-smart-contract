@@ -1,5 +1,3 @@
-# Crowdfunding-smart-contract
-
 # CrowdFunding Smart Contract
 
 ## Description
